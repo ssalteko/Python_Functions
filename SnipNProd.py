@@ -1,5 +1,5 @@
 def SnipNProd(n,matrix):
-    '''Returns the maximum product of 4 adjacent elements'''
+    '''Returns the maximum product of n adjacent elements'''
 
     M = 0
     rows = len(matrix)
