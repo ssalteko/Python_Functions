@@ -11,4 +11,4 @@ def PrimesList(n):
                 m[p] = 1
                 p += j
         j += 2
-    print (ListOfPrimes)
+    return ListOfPrimes
